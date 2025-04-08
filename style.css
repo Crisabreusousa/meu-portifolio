@@ -62,6 +62,7 @@ header {
     width: 100%;
     position: fixed;
     top: 0;
+    z-index: 1000;/*garante que o menu fique sempre por cima*/
     left: 0;
     background:#f8bbd0;/* Cor de fundo rosa suave */
     padding: 10px 30px;

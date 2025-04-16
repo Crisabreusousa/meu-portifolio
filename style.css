@@ -333,6 +333,7 @@ section {
   box-shadow: none !important; /* Remove a sombra */
   padding: 0 !important; /* Remove o espaçamento interno */
   border: none !important; /* Remove qualquer borda */
+    margin-bottom:40px;
 }
 
 

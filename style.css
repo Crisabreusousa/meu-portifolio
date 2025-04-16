@@ -36,7 +36,12 @@ body {
   overflow-x: hidden;
 }
 
-  /* Corpo */
+  
+  .destaque {
+    color: var(--cor-accento);
+  }
+
+/* Corpo */
 body {
     padding-top: 200px;
     overflow-y: scroll;
@@ -50,12 +55,6 @@ body {
     background-color: var(--elemento-primario);
     color: var(--texto-elemento-primario);
   }
-  
-  .destaque {
-    color: var(--cor-accento);
-  }
-
-
 /* Cabeçalho */
 header {
     padding-top: 80px;

@@ -35,7 +35,16 @@ body {
   align-items: center;
   overflow-x: hidden;
 }
-
+/* Corpo */
+body {
+    padding-top: 200px;
+    overflow-y: scroll;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
   
   .elemento {
     background-color: var(--elemento-primario);

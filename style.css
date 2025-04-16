@@ -35,6 +35,16 @@ body {
   align-items: center;
   overflow-x: hidden;
 }
+
+  
+  .elemento {
+    background-color: var(--elemento-primario);
+    color: var(--texto-elemento-primario);
+  }
+  
+  .destaque {
+    color: var(--cor-accento);
+  }
 /* Corpo */
 body {
     padding-top: 200px;
@@ -45,16 +55,6 @@ body {
     flex-direction: column;
     align-items: center;
 }
-  
-  .elemento {
-    background-color: var(--elemento-primario);
-    color: var(--texto-elemento-primario);
-  }
-  
-  .destaque {
-    color: var(--cor-accento);
-  }
-
 
 /* Cabeçalho */
 header {

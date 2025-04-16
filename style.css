@@ -36,16 +36,7 @@ body {
   overflow-x: hidden;
 }
 
-  
-  .elemento {
-    background-color: var(--elemento-primario);
-    color: var(--texto-elemento-primario);
-  }
-  
-  .destaque {
-    color: var(--cor-accento);
-  }
-/* Corpo */
+  /* Corpo */
 body {
     padding-top: 200px;
     overflow-y: scroll;
@@ -55,6 +46,15 @@ body {
     flex-direction: column;
     align-items: center;
 }
+  .elemento {
+    background-color: var(--elemento-primario);
+    color: var(--texto-elemento-primario);
+  }
+  
+  .destaque {
+    color: var(--cor-accento);
+  }
+
 
 /* Cabeçalho */
 header {
@@ -334,7 +334,7 @@ section {
   background: none; /* Remove o fundo */
   box-shadow: none; /* Remove a sombra */
   padding: 0; /* Remove o espaçamento interno */
- margin-bottom: 20px;
+
 }
 
 .sobre-container {
@@ -342,7 +342,7 @@ section {
   box-shadow: none !important; /* Remove a sombra */
   padding: 0 !important; /* Remove o espaçamento interno */
   border: none !important; /* Remove qualquer borda */
-    margin-bottom:40px;
+  
 }
 
 

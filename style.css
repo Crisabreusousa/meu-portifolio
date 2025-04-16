@@ -325,6 +325,7 @@ section {
   background: none; /* Remove o fundo */
   box-shadow: none; /* Remove a sombra */
   padding: 0; /* Remove o espaçamento interno */
+ margin-bottom: 20px;
 }
 
 .sobre-container {

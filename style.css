@@ -239,7 +239,7 @@ h2 {
   }
   
   .projeto-imagem {
-      max-width: 50%;
+      max-width: 90%;
       height: auto;
       border-radius: 10px;
     }
@@ -251,7 +251,7 @@ h2 {
   
   .projeto-imagem img {
     display: block;
-    max-width: 70%;
+    max-width: 90%;
     height: auto;
     border-radius: 5px; /* Opcional: Bordas arredondadas */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Opcional: Sombra na imagem */
